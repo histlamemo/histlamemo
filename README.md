@@ -1,7 +1,6 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=histlamemo)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi, I'm Mehmet Doğanlı</h1>
-<h3 align="center">A new light to the network AI&ML student from Turkey</h3>
+<h3 align="center">A new light to the network AI&ML student from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=histlamemo&label=Profile%20views&color=37ff00&style=plastic" alt="histlamemo" /> </p>
 
