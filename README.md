@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=histlamemo&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views" style="margin-bottom: 25px;"/>
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there%20👋%20I'm%20Mehmet&fontSize=50&fontAlignY=35&desc=Software%20Developer%20|%20Embedded%20Systems%20Enthusiast&descAlignY=55" />
 
 <br>
 
-<!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there%20👋%20I'm%20Mehmet&fontSize=50&fontAlignY=35&desc=Software%20Developer%20|%20Embedded%20Systems%20Enthusiast&descAlignY=55" />
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=histlamemo&style=for-the-badge&color=667eea&label=PROFILE+VIEWS&labelColor=764ba2" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/histlamemo?style=for-the-badge&color=764ba2&labelColor=667eea&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/histlamemo?style=for-the-badge&color=667eea&labelColor=764ba2&logo=github&label=STARS" alt="Stars"/>
+</p>
 
 <br>
 
@@ -16,6 +20,30 @@
   🚀 I enjoy learning new technologies and improving my coding skills.<br>
   🌟 Always curious, always building!
 </p>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Atatürk Memorial with Black Ribbon -->
+<h2 align="center">
+  🎗️ 1881 - 1938∞ 🎗️
+</h2>
+
+<br>
+
+<!-- Atatürk Quote -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 30px auto; max-width: 800px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4);">
+  <p style="font-size: 1.3em; font-weight: 600; color: white; line-height: 1.8; margin: 0; text-align: center; font-style: italic;">
+    "The entire hope and future of the homeland depends on the understanding and energy of you, the young generations."
+  </p>
+  <p style="font-size: 1em; color: rgba(255, 255, 255, 0.9); margin-top: 15px; text-align: right; font-weight: 500;">
+    — Mustafa Kemal Atatürk
+  </p>
+</div>
 
 <br>
 
@@ -136,18 +164,6 @@
 </p>
 
 <br><br>
-
-<!-- Atatürk Quote -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 30px auto; max-width: 800px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4);">
-  <p style="font-size: 1.3em; font-weight: 600; color: white; line-height: 1.8; margin: 0; text-align: center; font-style: italic;">
-    "The entire hope and future of the homeland depends on the understanding and energy of you, the young generations."
-  </p>
-  <p style="font-size: 1em; color: rgba(255, 255, 255, 0.9); margin-top: 15px; text-align: right; font-weight: 500;">
-    — Mustafa Kemal Atatürk
-  </p>
-</div>
-
-<br>
 
 <!-- Footer Message -->
 <p style="font-size: 1.1em; color: #667eea;">
