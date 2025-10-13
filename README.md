@@ -16,7 +16,7 @@
 
 <!-- Introduction -->
 <p style="font-size: 1.2em; line-height: 1.8; max-width: 700px; margin: 30px auto; color: #555;">
-  💻 I'm interested in <strong>software development</strong> and <strong>embedded systems</strong>.<br>
+  💻 I'm interested in <strong>coding</strong>,</strong>development</strong> and <strong>AI systems</strong>.<br>
   🚀 I enjoy learning new technologies and improving my coding skills.<br>
   🌟 Always curious, always building!
 </p>
