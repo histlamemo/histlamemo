@@ -115,7 +115,10 @@
 
 <br>
 
-### 📈 My WakaTime Stats
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 My WakaTime Stats
 
 <a href="https://wakatime.com/@Doganli">
   <picture>
@@ -126,6 +129,9 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Doganli&layout=compact&theme=github_dark" />
   </picture>
 </a>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Streak Stats -->
 <p>
