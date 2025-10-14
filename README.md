@@ -115,6 +115,18 @@
 
 <br>
 
+### 📈 My WakaTime Stats
+
+<a href="https://wakatime.com/@Doganli">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Doganli&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Doganli&layout=compact&theme=github_dark" />
+  </picture>
+</a>
+
 <!-- GitHub Streak Stats -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" width="100%" style="margin: 10px 0;"/>
