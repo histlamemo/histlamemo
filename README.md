@@ -120,7 +120,7 @@
 
 ## 📈 My WakaTime Stats
 
-<a href="https://wakatime.com/@Doganli">
+<p href="https://wakatime.com/@Doganli">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Doganli&layout=compact"
@@ -128,9 +128,10 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Doganli&layout=compact&theme=github_dark" />
   </picture>
-</a>
+</p>
 
 <br>
+
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
