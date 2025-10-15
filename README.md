@@ -108,9 +108,8 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<p style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=histlamemo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&rank_icon=github" alt="GitHub Stats" width="49%" style="margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=histlamemo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" alt="Top Languages" width="49%" style="margin: 5px;"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak Stats"/>
 </p>
 
 <br>
