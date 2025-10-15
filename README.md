@@ -136,11 +136,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Streak Stats -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" width="100%" style="margin: 10px 0;"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak Stats"/>
 </p>
-
-<br>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=histlamemo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=9f9f9f&area=true&area_color=764ba2" alt="Contribution Graph" width="100%"/>
