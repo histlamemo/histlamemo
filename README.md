@@ -109,11 +109,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=histlamemo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=histlamemo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -134,11 +134,12 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--Github Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak Stats"/>
-</p>
+<!-- GitHub Streak Stats -->
+## 🔥 GitHub Streak Stats
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=histlamemo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak Stats"/>
+</p>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=histlamemo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=9f9f9f&area=true&area_color=764ba2" alt="Contribution Graph" width="100%"/>
