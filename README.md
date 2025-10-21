@@ -30,7 +30,7 @@
 
 <!-- Atatürk Memorial with Black Ribbon -->
 <h2 align="center">
-  🎗️ 1881 - 1938∞ 🎗️
+  🎗️ 1881 - 193∞ 🎗️
 </h2>
 
 <br>
