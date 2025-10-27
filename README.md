@@ -174,7 +174,7 @@
   <a href="https://github.com/histlamemo" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/mehmet-d-757b95381/" target="_blank">
+  <a href="https://www.linkedin.com/in/mehmetdoganli/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
   </a>
   <a href="https://instagram.com/dgnl.mehmet" target="_blank">
